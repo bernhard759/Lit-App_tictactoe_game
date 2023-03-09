@@ -5,7 +5,7 @@ export default defineConfig({
   base: "/Lit-App_tictactoe_game/",
   build: {
     lib: {
-      entry: 'src/tictactoe-game.ts',
+      entry: 'index.html',
       formats: ['es'],
     },
     rollupOptions: {
