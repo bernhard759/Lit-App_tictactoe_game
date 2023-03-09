@@ -1,5 +1,5 @@
-import { LitElement, html } from 'lit'
-import { customElement, state } from 'lit/decorators.js'
+import { LitElement, html } from 'lit';
+import { customElement, state } from 'lit/decorators.js';
 import { styles } from './styles';
 
 // Gameboard 
